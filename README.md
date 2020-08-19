@@ -1,7 +1,6 @@
 # @Pacssificbot
 
-> Simple slackbot built with Node.js and Slackbots.js that tells random Chuck Norris and Yo Mama jokes.
-
+> Simple slackbot built with Node.js and Slackbots.js that select a team member and assigns a task
 
 
 ## Quick Start
